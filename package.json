@@ -1,0 +1,25 @@
+{
+  "name": "learwebpack",
+  "version": "1.0.0",
+  "description": "A learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "xuran index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwww.githup.com/dearMyfread007.git"
+  },
+  "keywords": [
+    "leaning"
+  ],
+  "author": "xuran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwww.githup.com/dearMyfread007/issues"
+  },
+  "homepage": "https://github.com/wwww.githup.com/dearMyfread007#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
